@@ -1,0 +1,16 @@
+body{
+    display: flex;
+    position: relative;
+    text-align: center;
+    background-color: black;
+}
+p{
+
+    color: aliceblue;
+    position: absolute;
+    text-align: center;
+    display: flex;
+}
+h1{
+    color: aliceblue;
+}
